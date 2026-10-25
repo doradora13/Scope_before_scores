@@ -1,0 +1,17 @@
+﻿quantity,value
+proxy groups mapping 1:1 to a real NUTS3 region,540
+inventories in 1:1 proxy groups (%),95.90338937816921
+Moran I k=10: country / NUTS1 / NUTS2 / NUTS3 FE,0.173 / 0.124 / 0.075 / 0.003
+"Moran I k=10 after k-means placebo FE (mean, 95% range)","-0.001 [-0.010, 0.009]"
+variance absorbed (%): NUTS3 vs k-means vs voronoi placebo,34.7 vs 31.8 vs 29.2
+NUTS3 boundary within NUTS2: semivariance difference (%),11.750629923973662
+NUTS2 boundary: semivariance difference (%),50.29036296223728
+FUA subsample size; F(FUA|NUTS3) p; F(NUTS3|FUA) p,1719; 0.028; 9.4e-05
+constant coverage: energy use / energy C-intensity / non-energy (% per year),-1.55 / -0.79 / 0.10
+C-intensity LMDI: electricity share / grid EF / fuel EF (% per year),0.25 / -0.81 / -0.25
+most influential NUTS2 region; its share of pairs (%); its share of the pooled energy-use term (%),ES61; 8.1; 53
+energy-use share of the pooled change without that region (%),48.825699898549736
+implied grid EF identical in BEI and MEI (%),16.87797147385103
+slope of dln implied grid EF on dln national factor,0.386401023533855
+mean annual change: all pairs vs constant coverage (%),-5.90 vs -2.24
+share of summed decline from coverage-change pairs (%),66.79183814305792

@@ -1,0 +1,59 @@
+where,item,manuscript,this_run,status
+S17,inventories in action plans,9856.0,9856.0,OK
+S17,inventories in monitoring reports,3399.0,3399.0,OK
+S17,keys with several entries,1362.0,1362.0,OK
+S17,of which with different totals,635.0,635.0,OK
+S17,distinct keys,11776.0,11776.0,OK
+S17,inventories in the 2021 source,8045.0,8045.0,OK
+S17,"matched by signatory, type and year",7364.0,7364.0,OK
+S17,inventories with the same id,4471.0,4471.0,OK
+S17,"mapping reproduced: municipal, %",92.0,92.0,OK
+S17,"mapping reproduced: tertiary, %",88.6,88.6,OK
+S17,"mapping reproduced: residential, %",84.8,84.8,OK
+S17,"mapping reproduced: manufacturing, %",86.5,86.5,OK
+S17,"mapping reproduced: transport, %",79.6,79.6,OK
+S17,"mapping reproduced: waste, %",4.1,4.1,OK
+S17,residential buildings alone reproduce,3032.0,3032.0,OK
+S17,inventories with residential,4351.0,4351.0,OK
+S17,zero-emission sector entries,426.0,426.0,OK
+S17,waste 0.885 times the 2021 value,837.0,837.0,OK
+Table S24,"same id: identical energy-sector values, %",55.5,55.5,OK
+S17,joint-plan inventories removed,160.0,160.0,OK
+S17,"release codes valid in NUTS 2016, %",95.3,95.3,OK
+S17,"release codes valid in NUTS 2021, %",100.0,100.0,OK
+S17,"2021 signatories with a different release code, %",9.3,9.3,OK
+S17,classification changes,355.0,355.0,OK
+S17,classification changes in Italy,257.0,257.0,OK
+S17,classification changes in Belgium,61.0,61.0,OK
+S17,classification changes in Croatia,36.0,36.0,OK
+S17,different regions,287.0,287.0,OK
+S17,missing codes,65.0,65.0,OK
+S17,analysis inventories with 2021 covariates,9764.0,9764.0,OK
+S17,analysis inventories of new signatories,948.0,948.0,OK
+S17,"Eurostat GDP: median absolute difference, %",9.7,9.7,OK
+S17,"NUTS3 agreement on 2021 signatories, %",96.8,96.8,OK
+S17,"density: median absolute difference, %",1.2,1.2,OK
+S17,"heating degree days: median absolute difference, %",3.3,3.3,OK
+S17,same inventories in both analysis samples,7011.0,7011.0,OK
+S17,"same inventories: identical energy-sector values, %",58.4,58.4,OK
+S17,"same inventories: identical totals, %",41.3,41.3,OK
+S17,"same inventories: identical sector sets, %",82.2,82.2,OK
+S17,"same inventories: identical populations, %",97.4,97.4,OK
+S17,same inventories: waste reported in 2021 only,999.0,999.0,OK
+S17,"six-sector inventories, 2021 values",774.0,774.0,OK
+S17,"six-sector inventories, 7th values",307.0,307.0,OK
+S17,source data: waste reported in 2021 only,1014.0,1014.0,OK
+S17,source data: of which in Andalucia,441.0,441.0,OK
+S17,source data: of which in Catalonia,400.0,400.0,OK
+S17,not in 2021,3701.0,3701.0,OK
+S17,not in 2021: BEIs,1448.0,1448.0,OK
+S17,not in 2021: MEIs,2253.0,2253.0,OK
+S17,not in 2021: median year,2015.0,2015.0,OK
+S17,Lingewaard: t per capita,36721.0,36721.0,OK
+S17,Lingewaard: total relative to 2021,45879.0,45879.0,OK
+S17,Orebro: t per capita,1639.0,1639.0,OK
+S17,Orebro: population,124.0,124.0,OK
+S17,Orebro: population in 2021,140000.0,140000.0,OK
+S17,Sant'Omobono Terme: t per capita,0.0075,0.0075,OK
+S17,"Ossuccio: total, t",0.486,0.486,OK
+S17,Ossuccio: t per capita,0.0001,0.0001,OK

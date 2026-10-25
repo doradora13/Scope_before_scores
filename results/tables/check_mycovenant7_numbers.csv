@@ -1,0 +1,129 @@
+where,item,manuscript,this_run,status
+S17 Step 1,7th release: six-sector donors,489.0,489.0,OK
+S17 Step 1,7th release: donors in Andalucia,122.0,122.0,OK
+S17 Step 1,not in 2021: donors,182.0,182.0,OK
+S17 Step 1,7th release: shortfall coefficient,-1.11,-1.11,OK
+S17 Step 1,"7th release: two-stage interval, lower",-1.29,-1.29,OK
+S17 Step 1,"7th release: two-stage interval, upper",-0.89,-0.89,OK
+S17 Step 1,7th release: clustered SE,0.105,0.105,OK
+S17 Step 1,7th release: t against -1,-1.08,-1.08,OK
+S17 Step 1,7th release: sector-set slope,1.18,1.18,OK
+S17 Step 1,"same inventories, 2021 values: coefficient",-1.03,-1.03,OK
+S17 Step 1,"same inventories, 7th values: coefficient",-0.95,-0.95,OK
+S17 Step 1,not in 2021: coefficient,-1.34,-1.34,OK
+S17 Step 1,not in 2021: clustered SE,0.09,0.09,OK
+S17 Step 1,not in 2021: t against -1,-3.8,-3.8,OK
+S17 Step 1,not in 2021: sector sets,9.0,9.0,OK
+S17 Step 1,not in 2021: sector-set slope,-0.06,-0.06,OK
+S17 Step 1,"not in 2021: identifying variation from 1-2 sectors, %",78.0,78.0,OK
+S17 joint test,2021: Wald,18.2,18.2,OK
+S17 joint test,7th release: Wald,6.4,6.4,OK
+S17 joint test,7th release: p,0.266,0.266,OK
+S17 joint test,"same inventories, 2021 values: Wald",23.5,23.5,OK
+S17 joint test,"same inventories, 7th values: Wald",7.8,7.8,OK
+S17 joint test,"same inventories, 7th values: p",0.17,0.17,OK
+S17 joint test,"residual SD, 2021 values",0.428,0.428,OK
+S17 joint test,"residual SD, 7th values",0.429,0.429,OK
+S17 joint test,six-sector inventories losing waste,481.0,481.0,OK
+S17 joint test,of which in Andalucia,401.0,401.0,OK
+S17 joint test,their six-sector contrast,0.37,0.37,OK
+S17 joint test,other six-sector inventories,293.0,293.0,OK
+S17 joint test,their six-sector contrast,0.09,0.09,OK
+S17 joint test,"mean waste share, losing waste, %",5.2,5.2,OK
+S17 joint test,"mean waste share, others, %",7.2,7.2,OK
+S17 joint test,waste omitted as in 7th: Wald,12.7,12.7,OK
+S17 joint test,waste omitted as in 7th: p,0.026,0.026,OK
+S17 joint test,waste omitted: six-sector contrast,-0.06,-0.06,OK
+S17 joint test,2021 waste restored: Wald,15.5,15.5,OK
+S17 joint test,2021 waste restored: p,0.008,0.008,OK
+S17 joint test,2021 waste restored: six-sector contrast,0.19,0.19,OK
+S17 joint test,7th values: six-sector contrast,-0.02,-0.02,OK
+S17 joint test,2021 values: six-sector contrast,0.24,0.24,OK
+S17 joint test,donor swap: Wald (2021 values),21.0,21.0,OK
+S17 joint test,donor swap: Wald (7th values),4.9,4.9,OK
+S17 joint test,identical sector sets: Wald (2021 values),12.2,12.2,OK
+S17 joint test,identical sector sets: Wald (7th values),7.3,7.3,OK
+S17 joint test,2021 without Andalucia: six-sector contrast,0.08,0.08,OK
+S17 joint test,2021 without Andalucia: p,0.033,0.033,OK
+S17 Step 2,7th release: skewness,-0.67,-0.67,OK
+S17 Step 2,"7th release: skewness interval, lower",-1.17,-1.17,OK
+S17 Step 2,"7th release: skewness interval, upper",-0.22,-0.22,OK
+S17 Step 2,7th release: core-complete skewness,-0.17,-0.17,OK
+S17 Step 2,7th release: incomplete skewness,-0.98,-0.98,OK
+S17 Step 2,"7th release: 1-2-sector third-moment share, %",66.0,66.0,OK
+S17 Step 2,"same inventories, 2021 values: skewness",-1.07,-1.07,OK
+S17 Step 2,"same inventories, 7th values: skewness",-0.95,-0.95,OK
+S17 Step 2,"same inventories, 2021 values: core-complete",-0.16,-0.16,OK
+S17 Step 2,"same inventories, 7th values: core-complete",-0.33,-0.33,OK
+S17 Step 2,"same inventories, 2021 values: incomplete",-1.52,-1.52,OK
+S17 Step 2,"same inventories, 7th values: incomplete",-1.25,-1.25,OK
+S17 Step 2,"same inventories, 2021 values: 1-2-sector share, %",90.0,90.0,OK
+S17 Step 2,"same inventories, 7th values: 1-2-sector share, %",83.0,83.0,OK
+S17 Step 2,"identical sector sets, 2021 values: skewness",-0.85,-0.85,OK
+S17 Step 2,"identical sector sets, 7th values: skewness",-0.97,-0.97,OK
+S17 Step 2,"2021: largest residual's third-moment share, %",42.0,42.0,OK
+S17 Step 2,2021: skewness without it,-1.31,-1.31,OK
+S17 Step 2,2021 with the screen: skewness,-1.27,-1.27,OK
+S17 Step 2,"2021 with the screen: 1-2-sector share, %",78.0,78.0,OK
+S17 Step 2,not in 2021: skewness,-0.14,-0.14,OK
+S17 Step 2,not in 2021: core-complete skewness,0.56,0.56,OK
+S17 Step 2,not in 2021: core-complete without its ten largest residuals,0.07,0.07,OK
+S17 Step 2,those ten: lowest t per capita,18.3,18.3,OK
+S17 Step 2,those ten: highest t per capita,67.7,67.7,OK
+S17 Step 2,not in 2021: core-complete quantile skewness,-0.05,-0.05,OK
+S17 screen,screened sample plus Lingewaard and Orebro: skewness,0.4,0.4,OK
+S17 screen,screened sample plus Lingewaard: skewness,0.09,0.09,OK
+S17 screen,all three restored: skewness,0.44,0.44,OK
+S17 Step 4,7th release: pairs,2634.0,2634.0,OK
+S17 Step 4,7th release: changed coverage,858.0,858.0,OK
+S17 Step 4,addition only,524.0,524.0,OK
+S17 Step 4,removal only,130.0,130.0,OK
+S17 Step 4,both,204.0,204.0,OK
+S17 Step 4,7th release: constant-coverage mean,-2.15,-2.15,OK
+S17 Step 4,2021: constant-coverage mean,-2.24,-2.24,OK
+S17 Step 4,7th release: all pairs minus constant coverage,-0.6,-0.6,OK
+S17 Step 4,7th release: scope term,-0.16,-0.16,OK
+S17 Step 4,7th release: retained-sector term,-0.44,-0.44,OK
+S17 Step 4,7th without Andalucia: constant coverage,-1.69,-1.69,OK
+S17 Step 4,7th without Andalucia: retained-sector term,-0.16,-0.16,OK
+S17 Step 4,2021 without Andalucia: constant coverage,-1.61,-1.61,OK
+S17 Step 4,2021 without Andalucia: retained-sector term,-0.24,-0.24,OK
+S17 Step 4,Andalucia removal-only pairs in 2021,232.0,232.0,OK
+S17 Step 4,of which matched in the 7th release,225.0,225.0,OK
+S17 Step 4,of which constant coverage in the 7th release,133.0,133.0,OK
+S17 Step 4,of which both additions and removals,75.0,75.0,OK
+S17 Step 4,Andalucia constant-coverage pairs matched,99.0,99.0,OK
+S17 Step 4,of which addition only in the 7th release,95.0,95.0,OK
+S17 Step 4,7th release: changed-coverage pairs adding waste,597.0,597.0,OK
+S17 Step 4,of which in Andalucia,195.0,195.0,OK
+S17 Step 4,of which in Catalonia,306.0,306.0,OK
+S17 processing,signatories with 2021 covariates: coefficient,-1.1,-1.1,OK
+S17 processing,one BEI and latest MEI: coefficient,-1.06,-1.06,OK
+S17 processing,earliest entry: coefficient,-1.11,-1.11,OK
+S17 processing,new signatories: coefficient,-1.08,-1.08,OK
+S17 processing,new signatories: clustered SE,0.37,0.37,OK
+S17 processing,new signatories: one-sector inventories,0.0,0.0,OK
+S17 processing,residential buildings only: coefficient,-1.26,-1.26,OK
+S17 processing,residential buildings only: t against -1,-2.7,-2.7,OK
+S17 releases,"same inventories with changed sector sets, %",17.8,17.8,OK
+S17 releases,"changed sector sets in Andalucia, %",53.1,53.1,OK
+S17 releases,"changed sector sets in Catalonia, %",56.0,56.0,OK
+S17 releases,"changed sector sets elsewhere, %",7.1,7.1,OK
+S17 releases,"identical totals in Andalucia, %",4.3,4.3,OK
+S17 releases,"identical totals in Catalonia, %",4.1,4.1,OK
+S17 releases,"identical totals elsewhere, %",52.1,52.1,OK
+S17 releases,Andalucia: retained-sector term,0.124,0.124,OK
+S17 releases,Andalucia: scope term,-0.032,-0.032,OK
+S17 releases,variance of the difference,0.0555,0.0555,OK
+S17 releases,scope variance,0.0199,0.0199,OK
+S17 releases,retained-sector variance,0.0331,0.0331,OK
+S17 releases,twice the covariance,0.0024,0.0024,OK
+Table S27,inventories losing only waste,988.0,988.0,OK
+Table S27,inventories losing a sector,1104.0,1104.0,OK
+Table S27,inventories gaining only manufacturing,81.0,81.0,OK
+Table S27,inventories gaining only residential,27.0,27.0,OK
+Table S27,inventories gaining a sector,156.0,156.0,OK
+Table S27,"largest single-inventory third-moment share, 7th release before the screen, %",170.0,170.0,OK
+Table S27,"largest single-inventory third-moment share, 7th release, %",10.0,10.0,OK
+S17 releases,inventories with waste in both releases,890.0,890.0,OK
+S17 releases,"of which 0.885 times the 2021 value, %",77.4,77.4,OK

@@ -1,0 +1,61 @@
+name,value,note
+inventories_action_plans,9856.0,S17: inventories in action plans
+inventories_monitoring_reports,3399.0,S17: inventories in monitoring reports
+zero_emission_sector_entries,426.0,S17 and Table S24: sector entries with zero emissions treated as unreported
+inventories_with_id_and_positive_total,13160.0,
+keys_several_entries,1362.0,S17 and Table S24
+keys_several_entries_different_totals,635.0,S17 and Table S24
+distinct_keys,11776.0,"S17 and Table S24: one inventory per signatory, type and year"
+inventories_2021_source,8045.0,
+inventories_2021_matched_by_key,7364.0,
+validation_nuts3_agreement,0.967985842985843,S17 and Table S24
+validation_density_median_abs_log_ratio,0.01223213013720679,
+extract_latest_same_as_copy,1.0,
+extract_earliest_same_as_copy,1.0,
+release_codes_valid_nuts2021,1.0,S17 and Table S24
+release_codes_valid_nuts2016,0.9528319067565106,S17 and Table S24
+nuts_codes_differ_share,0.09301407709511907,S17
+nuts_codes_differ_recoded,355.0,S17: classification changes
+nuts_codes_differ_recoded_it,257.0,
+nuts_codes_differ_recoded_be,61.0,
+nuts_codes_differ_recoded_hr,36.0,
+nuts_codes_differ_recoded_ee,1.0,
+nuts_codes_differ_other_region,287.0,S17
+nuts_codes_differ_missing,65.0,S17
+gdp_eurostat_median_abs_log_ratio,0.09734528607781871,S17: not substituted
+hdd_eurostat_median_abs_log_ratio,0.03298508240267932,S17 and Table S24
+mapping_municipal_n,4286.0,
+mapping_municipal_reproduced_share,0.9199720018665423,S17 and Table S24
+mapping_tertiary_n,4008.0,
+mapping_tertiary_reproduced_share,0.8857285429141717,S17 and Table S24
+mapping_residential_n,4351.0,
+mapping_residential_reproduced_share,0.8483107331647897,S17 and Table S24
+mapping_manufacturing_n,1856.0,
+mapping_manufacturing_reproduced_share,0.865301724137931,S17 and Table S24
+mapping_transport_n,4304.0,
+mapping_transport_reproduced_share,0.7964684014869888,S17 and Table S24
+mapping_waste_n,996.0,
+mapping_waste_reproduced_share,0.04116465863453815,S17 and Table S24
+inventories_same_id,4471.0,S17 and Table S24
+mapping_residential_buildings_only,3032.0,of 4351
+mapping_waste_0885,837.0,S17 and Table S24
+same_id_energy_values_identical,0.5551330798479087,Table S24 (direct and indirect emissions of the five energy sectors)
+joint_plan_inventories_removed,160.0,S17 and Table S24
+analysis_sample_7th,10712.0,
+analysis_inventories_2021_covariates,9764.0,S17 and Table S24
+analysis_inventories_new_signatories,948.0,S17 and Table S24
+not_in_2021,3701.0,
+not_in_2021_bei,1448.0,
+not_in_2021_mei,2253.0,
+not_in_2021_median_year,2015.0,
+same_inventories_n,7011.0,"S17, Tables S24-S25"
+same_inventories_energy,0.5836542575952075,"S17, Tables S24-S25"
+same_inventories_total,0.41335044929396664,"S17, Tables S24-S25"
+same_inventories_sector_set,0.8219940094137783,"S17, Tables S24-S25"
+same_inventories_population,0.9744686920553416,"S17, Tables S24-S25"
+same_inventories_waste_dropped,999.0,"S17, Tables S24-S25"
+same_inventories_six_2021,774.0,"S17, Tables S24-S25"
+same_inventories_six_7th,307.0,"S17, Tables S24-S25"
+source_waste_lost,1014.0,S17 and Table S24
+source_waste_lost_es61,441.0,
+source_waste_lost_es51,400.0,

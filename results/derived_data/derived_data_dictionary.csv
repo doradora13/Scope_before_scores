@@ -1,0 +1,31 @@
+file,variable,description
+coverage_indicators.csv,GCoM_ID,Signatory identifier in the JRC GCoM dataset
+coverage_indicators.csv,emission_inventory_id,Inventory identifier in the JRC GCoM dataset
+coverage_indicators.csv,inventory_type,baseline_emission_inventory or monitoring_emission_inventory
+coverage_indicators.csv,inventory_year,Inventory year
+coverage_indicators.csv,country_code,Two-letter country code
+coverage_indicators.csv,reports_<sector>,"1 if the inventory reports emissions for the sector (municipal, tertiary, residential, manufacturing, transport, waste)"
+coverage_indicators.csv,n_reported_sectors,Number of reported sectors (1-6)
+coverage_indicators.csv,core_five_complete,1 if the five core sectors are complete (core5_complete_flag of the analysis file)
+coverage_indicators.csv,complete_reporter,1 if at least five sectors are reported and the core five are complete (benchmark sample)
+coverage_indicators.csv,co2eq_units,"1 if emissions are reported in CO2-equivalent units, 0 if in CO2"
+coverage_indicators.csv,lca_factors,"1 if life-cycle (LCA) emission factors are used, 0 if IPCC factors"
+coverage_indicators.csv,population_mismatch_flag,1 if inventory-year population differs from the 2018 population by a factor above 2
+coverage_indicators.csv,integer_coordinates_flag,1 if both coordinates are whole degrees (excluded from spatial analyses)
+inventory_pairs.csv,GCoM_ID,Municipality with exactly one baseline and one later monitoring inventory in the analysis sample
+inventory_pairs.csv,baseline_inventory_id / monitoring_inventory_id,Inventory identifiers of the pair
+inventory_pairs.csv,years_between,Monitoring year minus baseline year
+inventory_pairs.csv,coverage_change,"same coverage, removal only, addition only or both"
+inventory_pairs.csv,constant_coverage,1 if the same sectors are reported in both inventories
+inventory_pairs.csv,n_sectors_removed / n_sectors_added,Number of sectors reported only in the baseline / only in the monitoring inventory
+inventory_pairs.csv,sectors_removed / sectors_added,Names of those sectors
+inventory_pairs.csv,emission_factor_type_change,1 if the emission-factor type (IPCC or LCA) differs between the two inventories
+inventory_pairs.csv,unit_change,1 if the reporting unit (CO2 or CO2-equivalent) differs between the two inventories
+inventory_pairs.csv,dln_total_emissions,Change in ln total reported emissions
+inventory_pairs.csv,dln_emissions_common_sectors,Change in ln emissions summed over sectors reported in both inventories
+inventory_pairs.csv,dln_population,Change in ln inventory-year population
+inventory_pairs.csv,dln_energy_use,Change in ln reported energy use (MWh); missing if not reported in both inventories
+inventory_pairs.csv,annual_pct_total / _per_capita / _energy_use / _carbon_intensity,Constant-coverage pairs only: annualised change in percent (100 x log change / years); intensity = total minus energy use
+inventory_pairs.csv,ipw_weight,Constant-coverage pairs only: inverse probability weight 1/p from the monitoring-selection logit
+nuts3_assignment.csv,nuts3_2016 / nuts2_2016 / nuts1_2016,NUTS 2016 codes from Table 3 of the JRC GCoM dataset
+nuts3_assignment.csv,gdp_value_proxy_group,GDP-value proxy identifier: country code and NUTS3 GDP per capita value (compared with the NUTS3 codes in Table S9)
